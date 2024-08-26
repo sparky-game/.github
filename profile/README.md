@@ -6,3 +6,7 @@
 > *To the moon and back, forever ❤*
 
 (...)
+
+---
+
+<sub>🤫 Psst! Take a look to our [official website](https://sparky-game.org) and its [source code](https://github.com/sparky-game/website).</sub>
