@@ -1,4 +1,4 @@
-## Hey, we're Sparky 👋
+## Hey, this is Sparky 👋
 
 ![Sparky banner illustration](../assets/banner.png)
 
