@@ -7,6 +7,11 @@
 
 (...)
 
+We have many projects, but we want to highlight a few, in a quite specific order:
+
+- [Volt](https://github.com/sparky-game/volt), a simple yet powerful game engine to enjoy videogames programming.
+- [Carbon](https://github.com/sparky-game/carbon), the most lightweight C/C++ testing framework.
+
 ---
 
 <sub>🤫 Psst! Take a look to our [official website](https://sparky-game.org) and its [source code](https://github.com/sparky-game/website).</sub>
