@@ -11,8 +11,8 @@ Our mission is to empower developers and enthusiasts by providing open-source to
 
 We have many projects, but we want to highlight a few, in a quite specific order:
 
-- [Carbon](https://github.com/sparky-game/carbon), the ultimate high-level library for C/C++.
-- [Volt](https://github.com/sparky-game/volt), a simple yet powerful game engine to enjoy videogames programming.
+- [Carbon](https://github.com/sparky-game/carbon), the ultimate high-level library for C/C++. 🎩
+- [Volt](https://github.com/sparky-game/volt), a simple yet powerful game engine to enjoy videogames programming. ⚡️
 
 Join us in supporting a future where gaming technology is open, transparent, and free for everyone.
 
